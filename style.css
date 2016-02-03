@@ -1,0 +1,119 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?-wgmh4q');
+	src:url('fonts/icomoon.eot?#iefix-wgmh4q') format('embedded-opentype'),
+		url('fonts/icomoon.woff?-wgmh4q') format('woff'),
+		url('fonts/icomoon.ttf?-wgmh4q') format('truetype'),
+		url('fonts/icomoon.svg?-wgmh4q#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    display: inline-block;
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-clover:before {
+	content: "\e61e";
+}
+.icon-ip:before {
+	content: "\e61d";
+}
+.icon-antenna:before {
+	content: "\e610";
+}
+.icon-server-config:before {
+	content: "\e611";
+}
+.icon-pc-transfer:before {
+	content: "\e612";
+}
+.icon-devices-alt:before {
+	content: "\e613";
+}
+.icon-devices:before {
+	content: "\e614";
+}
+.icon-lan:before {
+	content: "\e615";
+}
+.icon-cloud-transfer:before {
+	content: "\e616";
+}
+.icon-call-log:before {
+	content: "\e617";
+}
+.icon-tasks:before {
+	content: "\e618";
+}
+.icon-shared:before {
+	content: "\e619";
+}
+.icon-wan:before {
+	content: "\e61a";
+}
+.icon-cloud-transfer-alt:before {
+	content: "\e61b";
+}
+.icon-cloud-downloads:before {
+	content: "\e61c";
+}
+.icon-network:before {
+	content: "\e60f";
+}
+.icon-road-sign:before {
+	content: "\e60e";
+}
+.icon-hamburger:before {
+	content: "\e600";
+}
+.icon-server:before {
+	content: "\e601";
+}
+.icon-register:before {
+	content: "\e60d";
+}
+.icon-safari:before {
+	content: "\e602";
+}
+.icon-opera:before {
+	content: "\e603";
+}
+.icon-firefox:before {
+	content: "\e604";
+}
+.icon-chrome:before {
+	content: "\e605";
+}
+.icon-www:before {
+	content: "\e606";
+}
+.icon-feather:before {
+	content: "\e607";
+}
+.icon-phone-alt:before {
+	content: "\e608";
+}
+.icon-server-alt:before {
+	content: "\e609";
+}
+.icon-snowflake:before {
+	content: "\e60a";
+}
+.icon-leaf2:before {
+	content: "\e60b";
+}
+.icon-voicemail:before {
+	content: "\e60c";
+}

@@ -1,0 +1,21 @@
+{
+  "name": "zeus-icomoon",
+  "authors": [
+    "Jake Franklin <jfranklin@telesphere.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "icomoon"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
